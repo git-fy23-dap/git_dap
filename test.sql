@@ -1,6 +1,6 @@
 select 
-URIAGEDAKA AS "売上高",
+URIAGE AS "売上",
 YOSAN AS "予算",
-NENGETSU AS "年月日"
+NENGETSU AS "年月"
 from URIAGE_MEISAI;
 
